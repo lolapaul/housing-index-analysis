@@ -57,3 +57,17 @@ housing-index-analysis/
 │
 ├── housing_index_analysis.ipynb
 └── README.md
+```
+---
+
+## ✅ Status
+
+✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Spreadsheets for Data Analysis*
+
+---
+
+## 📌 Author
+
+David Villanueva  
+[LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
+[GitHub](https://github.com/lolapaul)
