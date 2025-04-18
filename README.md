@@ -56,6 +56,7 @@ Support economists in identifying high-return housing markets in the U.S., with 
 housing-index-analysis/
 │
 ├── housing_index_analysis.ipynb
+├── requirements.txt
 └── README.md
 ```
 ---
