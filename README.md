@@ -1,10 +1,10 @@
-# 🏠 Housing Index Analysis
+#  Housing Index Analysis
 
 *Exploratory data analysis of the U.S. housing market using the Case-Shiller index to identify high-return investment areas in 2016.*
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 - **Source:** [DataHub - House Prices US Dataset](https://datahub.io/core/house-prices-us#readme)
 - **Variables:**
@@ -22,16 +22,16 @@
 
 ---
 
-## 🧠 Project Context
+##  Project Context
 
-📅 **Year:** 2016  
-🏦 **Client:** Central Bank Economic Studies Department  
-🎯 **Objective:**  
+ **Year:** 2016  
+ **Client:** Central Bank Economic Studies Department  
+ **Objective:**  
 Support economists in identifying high-return housing markets in the U.S., with a special focus on West Coast states and cities.
 
 ---
 
-## 🔍 Analysis Plan
+##  Analysis Plan
 
 - Calculate the national average housing index for recent years
 - Determine recent average indexes for:
@@ -41,7 +41,7 @@ Support economists in identifying high-return housing markets in the U.S., with 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -50,7 +50,7 @@ Support economists in identifying high-return housing markets in the U.S., with 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 housing-index-analysis/
@@ -61,13 +61,13 @@ housing-index-analysis/
 ```
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Spreadsheets for Data Analysis*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
