@@ -61,12 +61,6 @@ housing-index-analysis/
 ```
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Spreadsheets for Data Analysis*
-
----
-
 ##  Author
 
 David Villanueva  
